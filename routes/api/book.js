@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const booksController = require("./../../controllers/bookcontroller");
+const booksController = require("../../controllers/bookcontroller");
 
 
 router.route("/")
