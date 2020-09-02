@@ -1,7 +1,7 @@
 # Google Book App
 
 ## Application
-This application allows the user to search books via google books api and save the book at the click of a button
+This application allows the user to search books via google books api and save the book at the click of a button.
 
 ## Technology
 * React
